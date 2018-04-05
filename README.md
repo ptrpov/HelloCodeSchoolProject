@@ -1,5 +1,7 @@
 # Hello Code School
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ptrpov/HelloCodeSchoolProject.svg)](https://greenkeeper.io/)
+
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
 
 # Getting Started
